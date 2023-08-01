@@ -36,3 +36,98 @@
     transform: rotate(360deg);
   }
 }
+
+#map{
+
+height: 200px;
+/* top: 100px;
+left: 40px;
+right: 40px; */
+}
+
+#give_attendance_button{
+position: absolute;
+left: 45%;
+/* right: 50%; */
+top: 100px;
+
+}
+
+#give_attendance_button_container{
+height: 80px;
+display: flex;
+justify-self: center;  
+align-items: center;
+}
+
+#map_container{
+
+height: 400px;
+}
+
+
+#map{
+left: 45%;
+/* right: 40px; */
+height: 400px;
+/* background-origin: padding-box; */
+border-radius: 20px;
+}
+
+#map_div{
+width: 800px;
+
+}
+
+#text_container{
+position: absolute;
+right: 26%;
+
+}
+
+#home_page_table_div{
+position: relative;
+top: 50px;
+}
+
+#TIME_TABLE{
+text-align: center;
+position: relative;
+top: 25px;
+}
+
+#video{
+
+margin-left: 30%;
+margin-top: 6%;
+
+}
+
+#faceapi_registered_text{
+
+margin-left: 33%;
+margin-top: 10%;
+color: green;
+
+}
+
+
+.mouse_test{
+/* margin-right: 100px; */
+width: 130px;
+height: 50px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
