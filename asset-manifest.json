@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NoProxy_Website/static/css/main.6bc9b1fa.css",
+    "main.js": "/NoProxy_Website/static/js/main.18ec5e21.js",
+    "static/js/787.22695224.chunk.js": "/NoProxy_Website/static/js/787.22695224.chunk.js",
+    "static/media/logo.svg": "/NoProxy_Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NoProxy_Website/index.html",
+    "main.6bc9b1fa.css.map": "/NoProxy_Website/static/css/main.6bc9b1fa.css.map",
+    "main.18ec5e21.js.map": "/NoProxy_Website/static/js/main.18ec5e21.js.map",
+    "787.22695224.chunk.js.map": "/NoProxy_Website/static/js/787.22695224.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bc9b1fa.css",
+    "static/js/main.18ec5e21.js"
+  ]
+}
