@@ -31,12 +31,9 @@ import PDC_lab from './Components/PDC_lab';
 import Bio from './Components/Bio';
 
 
-
-
-
 function App() {
   return (
-    
+    //home page should be called here
 
 <div>
 
